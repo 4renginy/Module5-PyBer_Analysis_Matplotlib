@@ -35,8 +35,8 @@ When we run the data between Jan 2019 - Apr 2019, line graph showed the findings
 
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/PyBer_fare_summary.png)
 
-## conclusion
-Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount;
+## Conclusion
+Looking at the results the company is doing a good job however the following suggestions might help to carry the company better postion;
 
 	1-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that
 		period of time might raise the total fares
