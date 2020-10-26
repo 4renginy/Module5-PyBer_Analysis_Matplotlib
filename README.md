@@ -10,7 +10,7 @@ Creating those visualizations of rideshare data for PyBer will help managment <b
 	*to detect patterns, trends, correlations and outliers<br>
 	*to make sound decisions on project planning and drive business decisions.<br>
 <br>
-## Method and findings,br>
+## Method and findings <br>
 
 Using Jupyter Notebook with Pandas and Matplotlib libraries we wrote [PyBer Analysis Challange code](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/PyBer_Challenge.ipynb)<br>
 Grouping total rides, Drivers, Fares,Avg Fare per Ride, and Avg. Fare per driver by city type we were able to find following;<br>
@@ -36,18 +36,16 @@ Rural city drivers makes 3.3 times more money than Urban drivers and 1.4 times m
 
 When we partilularly run the data between Jan 2019 - Apr 2019 we found; <br>
 
-
-PyBer_fare_summary.png
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/PyBer_fare_summary.png)
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Total_Fares_by_date%26type.PNG)
 
 ## conclusion
-Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount
-1-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that period of time might raise the total fares.
-2-Rural and suburban cites have significantly lower amount of drivers, some of the following items would help to increase the driver count 
-						a-running some promotions like signup bonuses 
-						b-providing smart phones and app usage support for the drivers
-						c-helping potential drivers with car rental or lease
+Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount<br>
+1-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that period of time might raise the total fares<br>
+2-Rural and suburban cites have significantly lower amount of drivers, some of the following items would help to increase the driver count<br>
+						a-running some promotions like signup bonuses<br>
+						b-providing smart phones and app usage support for the drivers<br>
+						c-helping potential drivers with car rental or lease<br>
 
-3-Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, we would be more competative against our competators
+3-Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, we would be more competative against our competators<br>
 
