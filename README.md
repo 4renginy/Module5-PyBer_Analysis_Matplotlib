@@ -18,23 +18,28 @@ Grouping total rides, Drivers, Fares,Avg Fare per Ride, and Avg. Fare per driver
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Summary_table.PNG)<br>
 
 Urban cities has 13 times more rides than Rural cities and 2.6 times than Suburban cities,<br>
+
+![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig1.png)
+![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig2.png)
+
 Urban cities has 31 times more drivers than Rural Cities and 5 times more than Suburban cities,<br>
+
+![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig6.png)
+
 Urban cities bring 9 times more fares than Rural Cities and 2 times more than Suburban cities,<br>
+
+![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig5.png)
+
 Rural cities average fare costs 1.4 times more than Urban and 1.1 times more than Suburban cities,<br>
+
 Rural city drivers makes 3.3 times more money than Urban drivers and 1.4 times more than Suburban cities.<br>
 
 
-
-Fig1
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig1.png)
-Fig2
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig2.png)
 Fig3
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig3.png)
 Fig5
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig5.png)
-Fig6
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig6.png)
+
+
 PyBer_fare_summary.png
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/PyBer_fare_summary.png)
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Total_Fares_by_date%26type.PNG)
