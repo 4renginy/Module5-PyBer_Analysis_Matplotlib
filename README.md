@@ -37,7 +37,6 @@ Rural city drivers makes 3.3 times more money than Urban drivers and 1.4 times m
 When we partilularly run the data between Jan 2019 - Apr 2019 we found; <br>
 
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/PyBer_fare_summary.png)
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Total_Fares_by_date%26type.PNG)
 
 ## conclusion
 Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount<br>
