@@ -1,13 +1,14 @@
-matplot lib 2 dimenional ploting library. Create a visual story with data which means  complex data becomes inormatve engaging to every stake holder.
-Data visiulation 
-Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis on their data collections as csv files. 
+#PyBer Analysis
+##Project Purpose
+Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis on their data collections as csv files.<br>
 
-We were given city_data and ride_data containing information cities, type of cities, dates, fares and drivers counts. Dates wil will run is between Jan 2019 and April 2019. 
-Creating those visualizations of rideshare data for PyBer will help managment 
+We were given city_data and ride_data containing information cities, type of cities, dates, fares and drivers counts. Dates wil will run is between Jan 2019 and April 2019<br>
+Creating those visualizations of rideshare data for PyBer will help managment <br>
+<br>
 	*to absorb info more quickly, 
 	*to detect patterns, trends, correlations and outliers 
-	*to make sound decisions on project planning and drive business decisions.
-
+	*to make sound decisions on project planning and drive business decisions.<br>
+<br>
 
 Using Jupyter Notebook with Pandas and Matplotlib libraries we wrote [PyBer Analysis Challange code](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/PyBer_Challenge.ipynb)<br>
 Grouping total rides, Drivers, Fares,Avg Fare per Ride, and Avg. Fare per driver by city type we were able to find following;<br>
