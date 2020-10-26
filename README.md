@@ -38,11 +38,11 @@ When we partilularly run the data between Jan 2019 - Apr 2019 we found; <br>
 
 ## conclusion
 Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount<br>
-*-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that period of time might raise the total fares<br>
-*-Rural and suburban cites have significantly lower amount of drivers, some of the following items would help to increase the driver count<br>
-						**-running some promotions like signup bonuses<br>
-						**-providing smart phones and app usage support for the drivers<br>
-						**-helping potential drivers with car rental or lease<br>
+*Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that period of time might raise the total fares<br>
+*Rural and suburban cites have significantly lower amount of drivers, some of the following items would help to increase the driver count<br>
+						**running some promotions like signup bonuses<br>
+						**providing smart phones and app usage support for the drivers<br>
+						**helping potential drivers with car rental or lease<br>
 
-*-Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, we would be more competative against our competators<br>
+*Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, we would be more competative against our competators<br>
 
