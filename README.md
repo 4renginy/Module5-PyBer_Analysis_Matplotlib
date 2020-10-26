@@ -1,8 +1,7 @@
 # PyBer Analysis
 ## Project Purpose
 
-Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis on their data collections as csv files. We were given city_data and ride_data containing information cities, type of cities, dates, fares and drivers counts. Dates wil will run is between Jan 2019 and April 2019<br>
-Creating those visualizations of rideshare data for PyBer will help managment <br>
+Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis on their data collections as csv files. We were given city_data and ride_data containing information cities, type of cities, dates, fares and drivers counts. Dates wil will run is between Jan 2019 and April 2019.Creating those visualizations of rideshare data for PyBer will help managment <br>
 <br>
 	*to absorb info more quickly,<br>
 	*to detect patterns, trends, correlations and outliers<br>
@@ -39,12 +38,15 @@ When we run the data between Jan 2019 - Apr 2019, line graph showed the findings
 ## conclusion
 Looking at the results the company is doing a good job however the following suggestions might help the raise the total fare amount;
 
-	1-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that period of time might raise the total fares
-	2-Rural and suburban cites have significantly lower amount of drivers, some of the following items would help to increase the driver count;
+	1-Graph shows at the beginning of Jan total fares are down in Urban and Suburban cities, a promotion for that
+		period of time might raise the total fares
+	2-Rural and suburban cites have significantly lower amount of drivers, some of the following items would help 
+		to increase the driver count;
 						
 						a-running some promotions like signup bonuses
 						b-providing smart phones and app usage support for the drivers
 						c-helping potential drivers with car rental or lease
 
-	3-Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, we would be more competative against our competators.
+	3-Rural and suburban cities have significantly high fares than the urban cities, if we can lower the fares, 
+		we would be more competative against our competators.
 
