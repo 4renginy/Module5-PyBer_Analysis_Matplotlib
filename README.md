@@ -1,7 +1,7 @@
 # PyBer Analysis
 ## Project Purpose
 
-Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis on their data collections as csv files. We were given city_data and ride_data containing information cities, type of cities, dates, fares and drivers counts. Dates wil will run is between Jan 2019 and April 2019.Creating those visualizations of rideshare data for PyBer will help managment <br>
+Pyber is multi million dollar python based ride-sharing app company. The company wants us to do some explatory analysis for their data collections. We were given city_data.csv and ride_data.csv files containing information of cities, types of cities, dates, fares and driver counts. We will work with data and create different kinds of graphs for the data.Creating those visualizations will help managment <br>
 <br>
 	*to absorb info more quickly,<br>
 	*to detect patterns, trends, correlations and outliers<br>
@@ -17,7 +17,6 @@ Grouping total rides, Drivers, Fares,Avg Fare per Ride, and Avg. Fare per driver
 1-Urban cities has 13 times more rides than Rural cities and 2.6 times than Suburban cities,<br>
 
 ![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig1.png)
-![](https://github.com/4renginy/Module5-PyBer_Analysis_Matplotlib/blob/main/analysis/Fig2.png)
 
 2-Urban cities has 31 times more drivers than Rural Cities and 5 times more than Suburban cities,<br>
 
